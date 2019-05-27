@@ -7,4 +7,4 @@
 
 [5.26题目](https://github.com/Yolo-929/DB_Leetcode/blob/master/May/5..26.md)
 
-[5.27题目](https://github.com/Yolo-929/DB_Leetcode/blob/master/May/5..27.md)
+[5.27题目](https://github.com/Yolo-929/DB_Leetcode/blob/master/May/5.27.md)
