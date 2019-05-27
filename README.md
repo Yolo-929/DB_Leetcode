@@ -6,3 +6,5 @@
 **2. 每日题目就在当天issue下评论自己的思路或者答案就行了（不同思路将被文章引用）**
 
 [5.26题目](https://github.com/Yolo-929/DB_Leetcode/blob/master/May/5..26.md)
+
+[5.27题目](https://github.com/Yolo-929/DB_Leetcode/blob/master/May/5..27.md)
